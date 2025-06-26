@@ -10,7 +10,7 @@ mydb = MyDB(
     _port = 3306, 
     _user = 'hyjeong', 
     _pw = '2Hgkdud123!', 
-    _db_name = ''
+    _db_name = 'hyjeong$default'
 )
 
 # Flask class 생성 
